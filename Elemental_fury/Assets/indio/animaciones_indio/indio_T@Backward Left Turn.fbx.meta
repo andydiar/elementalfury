@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 543f7089b345340d285ac47e9045b2d4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Backward Left Turn
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Backward Left Turn
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: indio_06t:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indio_06t:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: indio_T@Backward Left Turn(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Hips
+      parentName: indio_T@Backward Left Turn(Clone)
+      position: {x: -0.00005335358, y: 0.030538978, z: -0.00054034515}
+      rotation: {x: -0.036347114, y: 0.041147046, z: 0.008616168, w: 0.99845463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Spine
+      parentName: indio_06t:Hips
+      position: {x: -0, y: 0.0038499997, z: -0.00030999997}
+      rotation: {x: 0.057454538, y: -0.05382861, z: -0.013928418, w: 0.99679863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Spine1
+      parentName: indio_06t:Spine
+      position: {x: -0, y: 0.004506, z: 0}
+      rotation: {x: 0.0072181216, y: -0.014580664, z: -0.0019931032, w: 0.99986565}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Spine2
+      parentName: indio_06t:Spine1
+      position: {x: -0, y: 0.0051499996, z: 0}
+      rotation: {x: 0.0072616236, y: -0.014542341, z: -0.0018858188, w: 0.9998661}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Neck
+      parentName: indio_06t:Spine2
+      position: {x: -0, y: 0.0057929996, z: 0}
+      rotation: {x: 0.04260498, y: -0.04628223, z: -0.0050240993, w: 0.9980068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:Head
+      parentName: indio_06t:Neck
+      position: {x: -0, y: 0.0022939998, z: 0.000386}
+      rotation: {x: 0.0026007683, y: -0.04648588, z: -0.0023623642, w: 0.99891275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:HeadTop_End
+      parentName: indio_06t:Head
+      position: {x: -0, y: 0.010133999, z: 0.0017039999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftShoulder
+      parentName: indio_06t:Spine2
+      position: {x: -0.001931, y: 0.005109, z: -0.000057999998}
+      rotation: {x: 0.5887643, y: -0.4034068, z: 0.5665064, w: 0.41193447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftArm
+      parentName: indio_06t:LeftShoulder
+      position: {x: -0, y: 0.004167, z: 0}
+      rotation: {x: -0.14566103, y: -0.19470064, z: 0.0083279, w: 0.96995115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftForeArm
+      parentName: indio_06t:LeftArm
+      position: {x: -0, y: 0.009895, z: 0}
+      rotation: {x: -0.016823769, y: 0.009474456, z: -0.019183112, w: 0.9996296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHand
+      parentName: indio_06t:LeftForeArm
+      position: {x: -0, y: 0.008906, z: 0}
+      rotation: {x: 0.030035105, y: -0.19287412, z: -0.1508854, w: 0.9690878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandThumb1
+      parentName: indio_06t:LeftHand
+      position: {x: 0.000525, y: 0.001937, z: 0.000052}
+      rotation: {x: -0.18825163, y: 0.096483596, z: -0.2140012, w: 0.9536539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandThumb2
+      parentName: indio_06t:LeftHandThumb1
+      position: {x: 0.000115999996, y: 0.001602, z: 0}
+      rotation: {x: 0.0021339345, y: -0.03888791, z: 0.00451866, w: 0.99923104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandThumb3
+      parentName: indio_06t:LeftHandThumb2
+      position: {x: 0.000023, y: 0.001038, z: 0}
+      rotation: {x: -0.012644217, y: -0.059231974, z: -0.13715394, w: 0.9886964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandThumb4
+      parentName: indio_06t:LeftHandThumb3
+      position: {x: -0.000139, y: 0.000685, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandIndex1
+      parentName: indio_06t:LeftHand
+      position: {x: 0.000332, y: 0.003628, z: -0.000023}
+      rotation: {x: 0.07719124, y: 0.008503225, z: 0.049117316, w: 0.9957694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandIndex2
+      parentName: indio_06t:LeftHandIndex1
+      position: {x: -0.000002, y: 0.000788, z: 0}
+      rotation: {x: 0.025654221, y: 0.00008899528, z: 0.002654335, w: 0.99966735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandIndex3
+      parentName: indio_06t:LeftHandIndex2
+      position: {x: -0, y: 0.00072999997, z: 0}
+      rotation: {x: 0.035399266, y: -0.00022872377, z: 0.0041874293, w: 0.9993645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandIndex4
+      parentName: indio_06t:LeftHandIndex3
+      position: {x: 0.000003, y: 0.000658, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandMiddle1
+      parentName: indio_06t:LeftHand
+      position: {x: -0.000332, y: 0.003698, z: 0.000006}
+      rotation: {x: 0.071027964, y: 0.007945742, z: 0.054046746, w: 0.99597734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandMiddle2
+      parentName: indio_06t:LeftHandMiddle1
+      position: {x: -0.000001, y: 0.000574, z: 0}
+      rotation: {x: 0.026932998, y: 0.000028207887, z: 0.0024922783, w: 0.9996342}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandMiddle3
+      parentName: indio_06t:LeftHandMiddle2
+      position: {x: -0, y: 0.000604, z: 0}
+      rotation: {x: 0.037140734, y: -0.0000675028, z: 0.0031397194, w: 0.9993051}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftHandMiddle4
+      parentName: indio_06t:LeftHandMiddle3
+      position: {x: 0.000001, y: 0.000555, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightShoulder
+      parentName: indio_06t:Spine2
+      position: {x: 0.001931, y: 0.005109, z: -0.000052999996}
+      rotation: {x: 0.58329046, y: 0.42274144, z: -0.5496167, w: 0.42306432}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightArm
+      parentName: indio_06t:RightShoulder
+      position: {x: -0, y: 0.004167, z: 0}
+      rotation: {x: -0.12347323, y: 0.14665422, z: -0.08670274, w: 0.9776142}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightForeArm
+      parentName: indio_06t:RightArm
+      position: {x: -0, y: 0.009894, z: 0}
+      rotation: {x: -0.0151710715, y: -0.012734322, z: 0.01091658, w: 0.99974424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHand
+      parentName: indio_06t:RightForeArm
+      position: {x: -0, y: 0.008906, z: 0}
+      rotation: {x: -0.027743882, y: 0.078303665, z: -0.030357102, w: 0.99608094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandThumb1
+      parentName: indio_06t:RightHand
+      position: {x: -0.000542, y: 0.002001, z: 0.000010000001}
+      rotation: {x: -0.11739339, y: -0.027733054, z: 0.25695983, w: 0.9588646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandThumb2
+      parentName: indio_06t:RightHandThumb1
+      position: {x: -0.000093999995, y: 0.0016549999, z: 0}
+      rotation: {x: 0.009570528, y: 0.024219593, z: -0.00603632, w: 0.99964267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandThumb3
+      parentName: indio_06t:RightHandThumb2
+      position: {x: -0.000011, y: 0.00102, z: 0}
+      rotation: {x: -0.02753129, y: -0.008749956, z: 0.09805992, w: 0.99476117}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandThumb4
+      parentName: indio_06t:RightHandThumb3
+      position: {x: 0.000105, y: 0.000683, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandIndex1
+      parentName: indio_06t:RightHand
+      position: {x: -0.000343, y: 0.003767, z: 0.0000050000003}
+      rotation: {x: 0.07206984, y: -0.016028317, z: -0.048748523, w: 0.9960786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandIndex2
+      parentName: indio_06t:RightHandIndex1
+      position: {x: -0, y: 0.00074, z: 0}
+      rotation: {x: 0.030421413, y: -0.00000020675357, z: -0.0033629506, w: 0.99953157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandIndex3
+      parentName: indio_06t:RightHandIndex2
+      position: {x: -0, y: 0.0007549999, z: 0}
+      rotation: {x: 0.036074564, y: 0.0000002093168, z: -0.003990917, w: 0.9993412}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandIndex4
+      parentName: indio_06t:RightHandIndex3
+      position: {x: -0, y: 0.00066799996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandMiddle1
+      parentName: indio_06t:RightHand
+      position: {x: 0.000343, y: 0.003914, z: -0.000013999999}
+      rotation: {x: 0.06771642, y: -0.0062668533, z: -0.05576531, w: 0.9961253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandMiddle2
+      parentName: indio_06t:RightHandMiddle1
+      position: {x: -0, y: 0.000594, z: 0}
+      rotation: {x: 0.029551355, y: -0.0000005746257, z: -0.0030955435, w: 0.99955845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandMiddle3
+      parentName: indio_06t:RightHandMiddle2
+      position: {x: -0, y: 0.00054, z: 0}
+      rotation: {x: 0.034335867, y: 0.00000008242966, z: -0.0035955184, w: 0.99940395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightHandMiddle4
+      parentName: indio_06t:RightHandMiddle3
+      position: {x: -0, y: 0.000535, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftUpLeg
+      parentName: indio_06t:Hips
+      position: {x: -0.0031259998, y: -0.002135, z: 0.0002}
+      rotation: {x: -0.02047158, y: 0.08021491, z: 0.9964722, w: 0.013778889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftLeg
+      parentName: indio_06t:LeftUpLeg
+      position: {x: -0, y: 0.014134999, z: 0}
+      rotation: {x: -0.34087336, y: 0.026128706, z: -0.026490519, w: 0.93937266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftFoot
+      parentName: indio_06t:LeftLeg
+      position: {x: -0, y: 0.011912, z: 0}
+      rotation: {x: 0.72697425, y: -0.14382926, z: -0.057073317, w: 0.6690024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftToeBase
+      parentName: indio_06t:LeftFoot
+      position: {x: -0, y: 0.0048359996, z: 0}
+      rotation: {x: 0.29585826, y: -0.016060371, z: 0.0071987933, w: 0.9550697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:LeftToe_End
+      parentName: indio_06t:LeftToeBase
+      position: {x: -0, y: 0.001991, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightUpLeg
+      parentName: indio_06t:Hips
+      position: {x: 0.0031259998, y: -0.002135, z: 0.000051}
+      rotation: {x: 0.12742022, y: 0.08580842, z: 0.98748285, w: -0.035759687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightLeg
+      parentName: indio_06t:RightUpLeg
+      position: {x: -0, y: 0.014129, z: 0}
+      rotation: {x: -0.3272297, y: -0.07205049, z: 0.04081704, w: 0.9413094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightFoot
+      parentName: indio_06t:RightLeg
+      position: {x: -0, y: 0.011914999, z: 0}
+      rotation: {x: 0.44252273, y: 0.13280196, z: -0.033841357, w: 0.8862235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightToeBase
+      parentName: indio_06t:RightFoot
+      position: {x: -0, y: 0.0049829995, z: 0}
+      rotation: {x: 0.18112081, y: 0.00090564543, z: -0.006388976, w: 0.9834397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: indio_06t:RightToe_End
+      parentName: indio_06t:RightToeBase
+      position: {x: -0, y: 0.002027, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
